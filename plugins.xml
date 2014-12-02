@@ -1,11 +1,11 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
 <plugins>
-    <pyqgis_plugin name="ARPAT plugin" version="0.3.3" plugin_id="147">
+    <pyqgis_plugin name="IBUS plugin" version="0.3.3" plugin_id="147">
         <description><![CDATA[this is description]]></description>
         <about></about>
         <version>0.3.3</version>
-        <qgis_minimum_version>2.4</qgis_minimum_version>
+        <qgis_minimum_version>2.2</qgis_minimum_version>
         <qgis_maximum_version>3.0</qgis_maximum_version>
         <homepage><![CDATA[http://www.facebook.com/ivan.busthomi]]></homepage>
         <file_name>ComboboxLayer.zip</file_name>
